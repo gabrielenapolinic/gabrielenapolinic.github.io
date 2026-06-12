@@ -66,8 +66,8 @@ nav:
   - Projects:
     - "All Projects": projects/index.md
     - "Virtual Test-Bed": projects/virtual-test-bed.md
-    - "Sample Project": projects/sample-project.md
-    - "Jupyter Notebook Project": projects/sample-notebook.ipynb
+    - "GEE Susceptibility Modeling": projects/gully-erosion-model.ipynb
   - Publications: publications.md
   - Experience: experience.md
+  - Volunteering: volunteering.md
   - Contact: contact.md
