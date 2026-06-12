@@ -3,39 +3,46 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
 
 # Experience & Education
 
-## Work Experience
+## Work & Research Experience
 
 <div class="timeline" markdown>
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### PhD Researcher in Earth Processes and Management of Resources and Risks
+**University of Bari Aldo Moro & University of Naples**
+*October 2023 – Present | Naples/Bari, Italy*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Developing a new procedure for the assessment and management of multi-hazard risk based on the use of test beds.
+- Conducting consistent assessments of the impact on exposed systems, such as urban settlements and infrastructures.
+- Evaluating the compounded impact of interacting natural disasters to define holistic mitigation measures.
 
 </div>
 
 <div class="timeline-entry" markdown>
 
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
+### GIS Analyst & Remote Sensing Trainee
+**University of Debrecen**
+*August 2020 – November 2020 | Debrecen, Hungary*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Performed LIDAR point cloud analysis and DTM generation in fluvial environments.
+- Executed vegetation classification using Landsat 8, Sentinel 2, PlanetScope, and SkySat satellite images.
+- Utilized PyQGIS and ENVI for advanced morphometric analysis and image classification.
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Environmental Geologist & GIS Analyst
+**Nebrodi Park Authority**
+*December 2019 – January 2020 | S.Agata di Militello, Italy*
+
+- Studied and analyzed the most important geosites within the Nebrodi Park territory.
+- Created charts using QGIS for tourism purposes.
+- Provided geological and geomorphological overviews, including 3D point cloud processing.
 
 </div>
 
@@ -45,22 +52,14 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### M.Sc. in Geological Sciences and Technologies
+**University of Palermo** | *2017 – 2020*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
-
----
-
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+- **Thesis:** *"Comparison Of Different Surface Reconstruction Methods For The Quantification Of Bank Erosion"* (Hungary).
 
 ---
 
-## Certifications
+### B.Sc. in Geological Sciences
+**University of Palermo** | *2012 – 2017*
 
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+- **Thesis:** *"Landslides in River Systems"* (Italy).
